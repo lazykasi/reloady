@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spting.jpa.property.hibernate.dilect",
+  "type": "java.lang.String",
+  "description": "A description for 'spting.jpa.property.hibernate.dilect'"
+}]}
